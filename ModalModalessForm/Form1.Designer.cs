@@ -48,7 +48,7 @@
             // 
             // btmModal
             // 
-            this.btmModal.Location = new System.Drawing.Point(10, 23);
+            this.btmModal.Location = new System.Drawing.Point(10, 24);
             this.btmModal.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btmModal.Name = "btmModal";
             this.btmModal.Size = new System.Drawing.Size(195, 113);
@@ -59,7 +59,7 @@
             // 
             // btnModaless
             // 
-            this.btnModaless.Location = new System.Drawing.Point(211, 23);
+            this.btnModaless.Location = new System.Drawing.Point(211, 24);
             this.btnModaless.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnModaless.Name = "btnModaless";
             this.btnModaless.Size = new System.Drawing.Size(201, 113);
